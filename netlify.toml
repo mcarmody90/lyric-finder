@@ -1,0 +1,4 @@
+[build]
+base = "lyric-app/"
+publish = "lyric-app/build/"
+command = "yarn build"
